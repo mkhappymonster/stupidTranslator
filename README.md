@@ -1,0 +1,2 @@
+# stupidTranslator
+Stupid Translator
